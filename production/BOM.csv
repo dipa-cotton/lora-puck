@@ -1,0 +1,37 @@
+Reference,Qty,Value,Cost,Link,Footprint,,Datasheet
+BT1,1,Battery,0.5,https://www.aliexpress.us/item/3256807960114360.html?spm=a2g0o.productlist.main.5.39824e89DQM4MS&algo_pvid=d329b116-0440-409c-9837-9a318ca811aa&algo_exp_id=d329b116-0440-409c-9837-9a318ca811aa-4&pdp_ext_f=%7B%22order%22%3A%225531%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%210.66%210.53%21%21%214.40%213.56%21%402101ca8b17911630376702872e136a%2112000043984702436%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A2a9d23e2%3Bm03_new_user%3A-29895&curPageLogUid=OKZYJvWZM2wn&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008146429112%7C_p_origin_prod%3A,Battery:BatteryHolder_Keystone_2462_2xAA,,
+"SW1,SW2",2,SW_Push,Owned,,Button_Switch_SMD:SW_Push_1P1T_NO_CK_PTS125Sx43SMTR,,
+"C1,C3,C4",3,100nf,4,https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm=a2g0o.productlist.main.2.75ae2a54d2zv7Z&productIds=1005006186888242%3A12000036220573161&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006186888242%7C_p_origin_prod%3A&pvid=8794bd21-dc35-417c-948d-1ba2a3746822,Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,,
+C5,1,4.7 µF,included in kit,,Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,,
+"C6,C7",2,10 µF,included in kit,,Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,,
+C12,1,C_Polarized,Owned,,Capacitor_THT:C_Radial_D6.3mm_H7.0mm_P2.50mm,,
+J7,1,Micro_SD_Card,3.5,https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/693072010801?qs=7gQLVZk5cPmw4uU1mAcUFg%3D%3D&srsltid=AU7gw4V8egOV4imH1Qo4UmfWx8BpqD6V1767jmgX_Gd4EJ4MfCTE70Q7,Connector_Card:microSD_HC_Wuerth_693072010801,,https://www.we-online.com/components/products/datasheet/693072010801.pdf
+J3,1,UV Sensor 240-370nm GUVA-S12SD 3528,3,https://www.aliexpress.us/item/3256806094286151.html,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,
+J4,1,AHT20+BMP280 Temperature Humidity Air Pressure,3,https://www.aliexpress.us/item/3256807516159141.html ,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,,
+J6,1,GY-NEO6MV2 New NEO-6M GPS,3,https://www.aliexpress.us/item/3256807316352883.html ,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,,
+J8,1,OLED,3,https://www.aliexpress.us/item/3256812792834091.html,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,,
+J5,1,7700 Ambient Light Sensor,3,https://www.aliexpress.us/item/3256810505327028.html,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,,
+J2,1,ENS160+AHT21,3,https://www.aliexpress.us/item/3256808312530292.html ,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,,
+J1,1,USB_C_Receptacle_USB2.0_14P,1,https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859662,Connector_USB:USB_C_Receptacle_GCT_USB4085,,https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+Y1,1,Crystal_GND24,0.5,https://www.mouser.com/en/ProductDetail/Murata-Electronics/CSTLS16M0X55-B0?qs=%2F86%2Fe1WMjuvG1Dfcz2nWSg%3D%3D&mgh=1&srsltid=AU7gw4X6J0LPTO0uTmNp1DC_-wxesDl9FpZxS3g08z1oEI4Ota1RF_acKzU,Crystal:Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1,,
+FB1,1,FerriteBead,1.1,https://www.digikey.com/en/products/detail/laird-signal-integrity-products/28C0236-0JW-10/806596,Ferrite_THT:LairdTech_28C0236-0JW-10,,
+U2,1,SX1262IMLTRT,9,https://www.digikey.com/en/products/detail/semtech-corporation/SX1262IMLTRT/8564369,Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,,https://semtech.file.force.com/sfc/dist/version/download/?oid=00DE0000000JelG&ids=0682R00000IjPWSQA3&d=%2Fa%2F2R000000Un7F%2FyT.fKdAr9ZAo3cJLc4F2cBdUsMftpT2vsOICP7NmvMo
+U3,1,AMS1117-3.3,0.5,https://www.digikey.com/en/products/detail/umw/AMS1117-3-3/17635254,Package_TO_SOT_SMD:SOT-223-3_TabPin2,,http://www.advanced-monolithic.com/pdf/ds1117.pdf
+U4,1,PE4259,1,https://www.digikey.com/en/products/detail/psemi/4259-63/2614473,Package_TO_SOT_SMD:SOT-363_SC-70-6,,https://lcsc.com/datasheet/lcsc_datasheet_2409301504_pSemi-PE4259-63_C470892.pdf
+U5,1,MCP1700x-330xxTO,0.5,https://www.digikey.com/en/products/detail/microchip-technology/MCP1700-3302E-TO/652680,Package_TO_SOT_THT:TO-92_Inline,,http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+L1,1,15µH,1,https://www.digikey.com/en/products/detail/bourns-inc/RL622-150K-RC/946867,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,,
+L2,1,9.1nH,0.5,https://www.digikey.com/en/products/detail/murata-electronics/LQG15WZ9N1G02D/18679099?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlhh7aCCwFdWjac3IJWtBq-oF&gclid=Cj0KCQjw8ofWBhCHARIsANBj4Lu83MzdaCMqkbmy515oEOqkXws9OE5qiQbRUP-AvS40K4sgjsFf_38aAlTjEALw_wcB,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,,
+"R1,R2",2,5.1K,4,https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm=a2g0o.productlist.main.1.cdbb54eexwglSK&productIds=1005010764873718%3A12000053431302920&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010764873718%7C_p_origin_prod%3A&pvid=e0e56341-c056-49c3-b530-8d5e9d475017,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,,
+"R3,R4",2,10k,included in kit,,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,,
+C2,1,1µF,included in kit,,Resistor_SMD:R_0603_1608Metric,,
+C8,1,C,included in kit,,Resistor_SMD:R_0603_1608Metric,,
+C9,1,39pf,included in kit,,Resistor_SMD:R_0603_1608Metric,,
+"C10,C11",2,3.3 pf,included in kit,,Resistor_SMD:R_0603_1608Metric,,
+C13,1,10µF,included in kit,,Resistor_SMD:R_0603_1608Metric,,
+C14,1,0.1µF,included in kit,,Resistor_SMD:R_0603_1608Metric,,
+R5,1,10D,included in kit,,Resistor_SMD:R_0603_1608Metric,,
+FL2,1,0900FM15K0039,0.5,https://www.digikey.com/en/products/detail/johanson-technology-inc/0900FM15K0039001E/16639329,RF_Converter:Balun_Johanson_0900FM15K0039,,https://www.johansontechnology.com/datasheets/0900FM15K0039/0900FM15K0039.pdf
+U1,1,ESP32-S3-WROOM-1,7,https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N8R8/15295891,RF_Module:ESP32-S3-WROOM-1,,https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+,,,52.1,,,,
+,,shipping,10,5,7,,
+,,total,74.1,,,,
