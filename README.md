@@ -8,9 +8,9 @@ LoRA!!
 
 
 ## project overview
-A long range radio system with lots of features! it integrates boards with sensors and reads the data with an esp32, and communicates using an SX1276, on ham radio frequencies so i can pick them up from far far away :DD along with a 0.96 inch OLED display, a microSD card module, and more, this project is versatile and can do much more than ur average tiny radio!
+A long range radio system with lots of features! it integrates boards with sensors and reads the data with an esp32, and communicates using an SX1262, on ham radio frequencies so i can pick them up from far far away :DD along with a 0.96 inch OLED display, a microSD card module, and more, this project is versatile and can do much more than your average tiny radio!
 ## pictures
-There was no CAD Case built cuz this is going in a plane.
+There was no CAD Case built because this is going to be put in a solar powered plane built by an organization that I don't have the dimentions for yet. I will update the CAD as soon as I receive those dimentions!
 ### Overall Cost: $72
-see BOM.csv for more specifics.
+see BOM.csv for more specifics!
 
